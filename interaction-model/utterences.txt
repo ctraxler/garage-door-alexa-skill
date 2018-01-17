@@ -1,0 +1,6 @@
+moveDoorIntent {direction} the garage door.
+getDoorStateIntent is the garage door open
+getDoorStateIntent is the garage door closed
+getDoorStateIntent is the garage door open or closed
+getDoorStateIntent is the garage door closed or open
+getDoorStateIntent where is the garage door

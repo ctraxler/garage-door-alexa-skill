@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "direction",
+          "type": "NAME_TRAXLER_OPEN_CLOSE"
+        }
+      ],
+      "intent": "moveDoorIntent"
+    },
+    {
+      "intent": "getDoorStateIntent"
+    }
+  ]
+}
